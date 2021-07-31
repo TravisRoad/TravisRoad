@@ -13,5 +13,5 @@
 
 ### IDEs:
 
-![IntellijIDEA](https://img.shields.io/badge/-Intellij%20IDEA-000?&logo=Webstorm&logoColor=FC444F)
+![IntellijIDEA](https://img.shields.io/badge/-Intellij%20IDEA-000?&logo=Intellij%20IDEA&logoColor=FC444F)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
