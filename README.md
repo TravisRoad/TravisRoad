@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TravisRoad&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisRoad&theme=radical&layout=compact&langs_count=6" alt="yop-long"/>
 </div>
 
 <br>
