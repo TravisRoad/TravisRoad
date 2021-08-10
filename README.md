@@ -1,9 +1,11 @@
 <h2 align="center"> 👋 Hi there, I am Travis <img src="https://komarev.com/ghpvc/?username=TravisRoad&color=red" /> </h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TravisRoad&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisRoad&theme=radical&layout=compact&langs_count=6" alt="yop-long"/>
-</div>
+<table>
+  <tr>
+    <td><img width=90% src="https://github-readme-stats.vercel.app/api?username=TravisRoad&show_icons=true&theme=radical" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisRoad&theme=radical&layout=compact&langs_count=6" alt="yop-long"/></td>
+  </tr>
+</table>
 
 <br>
 
@@ -19,26 +21,28 @@
   
   ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=C21325)
+  ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=C213ff)
+  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=7833ff)
   
 </div>
-
 
 <img align="left" height="220" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
 @@advanced programming student@@
-+ a student in BUPT 
++ a student in BUPT
 ! program engineer
 # computer science
 ```
 
 <!--START_SECTION:waka-->
-```text
-Java         29 mins         ███████████▓░░░░░░░░░░░░░   46.23 % 
-Markdown     24 mins         █████████▒░░░░░░░░░░░░░░░   37.93 % 
-XML          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-```
-<!--END_SECTION:waka-->
 
+```text
+Java         29 mins         ███████████▓░░░░░░░░░░░░░   46.23 %
+Markdown     24 mins         █████████▒░░░░░░░░░░░░░░░   37.93 %
+XML          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+```
+
+<!--END_SECTION:waka-->
