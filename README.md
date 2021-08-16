@@ -1,11 +1,13 @@
 <h2 align="center"> 👋 Hi there, I am Travis <img src="https://komarev.com/ghpvc/?username=TravisRoad&color=red" /> </h2>
 
-<table>
+<!-- <table>
   <tr>
     <td><img width=90% src="https://github-readme-stats.vercel.app/api?username=TravisRoad&show_icons=true&theme=radical" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisRoad&theme=radical&layout=compact&langs_count=6" alt="yop-long"/></td>
   </tr>
-</table>
+</table> -->
+
+<img align="center" width=90% src="https://github-readme-stats.vercel.app/api?username=TravisRoad&show_icons=true&theme=radical" />
 
 <br>
 
@@ -36,11 +38,15 @@
 ```
 
 <!--START_SECTION:waka-->
+
 ```text
-Python     1 hr 3 mins     ███████▒░░░░░░░░░░░░░░░░░   28.79 % 
-CSV        32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-JSON       32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Markdown   31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Java       29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Python     1 hr 3 mins     ███████▒░░░░░░░░░░░░░░░░░   28.79 %
+CSV        32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+JSON       32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+Markdown   31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+Java       29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
 ```
+
 <!--END_SECTION:waka-->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisRoad&theme=radical&layout=compact&langs_count=6" alt="yop-long"/>
