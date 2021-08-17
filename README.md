@@ -38,15 +38,13 @@
 ```
 
 <!--START_SECTION:waka-->
-
 ```text
-Python     1 hr 3 mins     ███████▒░░░░░░░░░░░░░░░░░   28.79 %
-CSV        32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-JSON       32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-Markdown   31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-Java       29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Python     1 hr 3 mins     ████████░░░░░░░░░░░░░░░░░   32.58 % 
+Markdown   38 mins         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+CSV        32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 % 
+JSON       31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+C++        17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 ```
-
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisRoad&theme=radical&layout=compact&langs_count=6" alt="yop-long"/>
