@@ -7,9 +7,9 @@
   </tr>
 </table> -->
 
-![](https://github-readme-stats.vercel.app/api?username=TravisRoad&show_icons=true&theme=radical)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=TravisRoad&show_icons=true&theme=radical) -->
 
-<!-- <img align="center" width=90% src="https://github-readme-stats.vercel.app/api?username=TravisRoad&show_icons=true&theme=radical" /> -->
+<img align="center" width=70% src="https://github-readme-stats.vercel.app/api?username=TravisRoad&show_icons=true&theme=radical" />
 
 <br>
 
