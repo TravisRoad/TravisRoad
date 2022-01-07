@@ -41,11 +41,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java         11 hrs 42 mins  █████████████▓░░░░░░░░░░░   54.66 % 
-JavaScript   2 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Markdown     1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Properties   1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Groovy       57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Java           7 hrs 59 mins   ███████████▒░░░░░░░░░░░░░   44.99 % 
+JavaScript     2 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Markdown       1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Properties     1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+HTTP Request   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 ```
 <!--END_SECTION:waka-->
 
