@@ -55,4 +55,4 @@ Properties   1 hr 25 mins    █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisRoad&theme=radical&layout=compact&langs_count=6" alt="yop-long"/>
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisRoad&theme=radical&layout=compact&langs_count=6" alt="yop-long"/> -->
