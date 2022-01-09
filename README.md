@@ -41,11 +41,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java         9 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   39.17 % 
-Vue.js       2 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-JavaScript   2 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Markdown     2 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Properties   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Java         11 hrs 23 mins  █████████▓░░░░░░░░░░░░░░░   38.19 % 
+Vue.js       5 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+JavaScript   2 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Markdown     2 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Properties   1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 ```
 <!--END_SECTION:waka-->
 
