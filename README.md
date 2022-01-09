@@ -1,4 +1,10 @@
-<h2 align="center"> 👋 Hi there, I am Travis <img src="https://komarev.com/ghpvc/?username=TravisRoad&color=red" /> </h2>
+<h2 align="center">
+  👋 Hi there, I am Travis
+  <img src="https://komarev.com/ghpvc/?username=TravisRoad&color=red" />
+  <a href="https://wakatime.com/@3ad9961d-b2f1-40fb-98f9-d1ad5956c726">
+    <img src="https://wakatime.com/badge/user/3ad9961d-b2f1-40fb-98f9-d1ad5956c726.svg" alt="Total time coded since Nov 19 2020" />
+  </a>
+</h2>
 
 <!-- <table>
   <tr>
