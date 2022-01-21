@@ -1,5 +1,6 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=false&width=250&lines=Hello%2C+I'm+Travis" />
+  <br>
   <img src="https://komarev.com/ghpvc/?username=TravisRoad&color=red" />
   <a href="https://wakatime.com/@3ad9961d-b2f1-40fb-98f9-d1ad5956c726">
     <img src="https://wakatime.com/badge/user/3ad9961d-b2f1-40fb-98f9-d1ad5956c726.svg" alt="Total time coded since Nov 19 2020" />
