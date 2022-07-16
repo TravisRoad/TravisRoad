@@ -49,8 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-messages    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-sshconfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+messages   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
