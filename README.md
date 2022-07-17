@@ -49,7 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-messages   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other        7 mins          █████████████████████▒░░░   85.00 %
 ```
 
 <!--END_SECTION:waka-->
