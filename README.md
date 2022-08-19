@@ -49,8 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          █████████████████████████   100.00 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown     1 min           ██████████████████▓░░░░░░   74.74 %
+JavaScript   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+Python       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
 ```
 
 <!--END_SECTION:waka-->
