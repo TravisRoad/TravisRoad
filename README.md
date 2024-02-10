@@ -49,7 +49,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+MDX        52 mins         ██████████████████████▓░░   90.74 %
+Markdown   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
 ```
 
 <!--END_SECTION:waka-->
