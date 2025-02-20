@@ -49,9 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MDX     55 mins         ████████████████████████▓   98.15 %
-Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
