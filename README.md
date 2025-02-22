@@ -49,7 +49,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+BibTeX   2 mins          █████████████░░░░░░░░░░░░   52.51 %
+TeX      1 min           ████████████░░░░░░░░░░░░░   47.49 %
 ```
 
 <!--END_SECTION:waka-->
