@@ -49,9 +49,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MDX          16 mins         █████████████████████░░░░   83.71 %
-JavaScript   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+MDX          11 mins         ████████████████████░░░░░   80.29 %
+JavaScript   2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.71 %
 ```
 
 <!--END_SECTION:waka-->
