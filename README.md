@@ -49,8 +49,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MDX          1 hr 3 mins     ████████████████▒░░░░░░░░   65.85 %
-TypeScript   32 mins         ████████▓░░░░░░░░░░░░░░░░   34.15 %
+TypeScript   24 mins         ████████████▓░░░░░░░░░░░░   50.27 %
+MDX          24 mins         ████████████▒░░░░░░░░░░░░   49.73 %
 ```
 
 <!--END_SECTION:waka-->
