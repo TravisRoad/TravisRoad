@@ -49,7 +49,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+MDX        17 mins         █████████████████████░░░░   83.91 %
+Makefile   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
 ```
 
 <!--END_SECTION:waka-->
