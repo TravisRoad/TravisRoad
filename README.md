@@ -49,11 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 25 mins    █████████████████▒░░░░░░░   69.15 %
-HTML       14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Makefile   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Bash       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
