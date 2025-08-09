@@ -49,7 +49,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Makefile     30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.27 %
+CSS          20 mins         █████░░░░░░░░░░░░░░░░░░░░   20.52 %
+Bash         15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+HTML         12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+JSON         12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
 ```
 
 <!--END_SECTION:waka-->
