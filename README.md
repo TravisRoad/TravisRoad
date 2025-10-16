@@ -49,11 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           7 mins          █████████████░░░░░░░░░░░░   51.56 %
-Markdown     4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.24 %
-Svelte       2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
