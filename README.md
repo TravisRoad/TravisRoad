@@ -49,10 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go         5 mins          █████████▓░░░░░░░░░░░░░░░   38.38 %
-Docker     4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.38 %
-Makefile   4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.01 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
