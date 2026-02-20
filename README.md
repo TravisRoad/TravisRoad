@@ -49,11 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go         29 mins               █████████████▒░░░░░░░░░░░   53.26 %
-YAML       21 mins               █████████▓░░░░░░░░░░░░░░░   38.55 %
-Bash       3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-JSON       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
